@@ -1,4 +1,4 @@
-# InsApp
+# Insurance PHP App
 ## Table of contents
   - [Overview](#overview)
   - [Built with](#built-with)
