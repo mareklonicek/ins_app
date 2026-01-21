@@ -41,7 +41,7 @@ If you want to try the app, you need to:
 			password: jedna
 - Enjoy! I suggest you use XAMPP to host your app locally.
 
-## 📂 Project Folders & Files Tree Structure
+## 📂 Project Folders & Files Tree Structure (vendor folder ignored)
 
 ```
 ├── 📁 App
