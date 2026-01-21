@@ -1,6 +1,6 @@
 # Insurance Management PHP App
 <p align="center">
-  <img src="public/assets/ins_logo.png" width="1200" alt="Ins Icon">
+  <img src="ins_logo.png" width="1200" alt="Ins Icon">
 </p>
 
 ## Table of contents
