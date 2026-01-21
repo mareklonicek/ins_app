@@ -1,4 +1,7 @@
 # Insurance PHP App
+<p align="center">
+  <img src="public/assets/ins_logo.png" width="1200" alt="Ins Icon">
+</p>
 ## Table of contents
   - [Overview](#overview)
   - [Built with](#built-with)
